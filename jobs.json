@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Junior C# Developer",
+        "company": "TechCorp",
+        "location": "Wien"
+    },
+    {
+        "title": "Senior Java Architect",
+        "company": "BigBank",
+        "location": "Wien"
+    },
+    {
+        "title": "Trainee Software",
+        "company": "StartupXY",
+        "location": "St. Pölten"
+    },
+    {
+        "title": "Praktikum IT",
+        "company": "Firma123",
+        "location": "Wien"
+    },
+    {
+        "title": "Junior Java Developer",
+        "company": "CodeHaus",
+        "location": "Wien"
+    }
+]
